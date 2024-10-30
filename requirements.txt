@@ -1,0 +1,7 @@
+comfy-cli
+gradio
+Pillow
+requests
+websocket-client
+pydantic
+civitdl
